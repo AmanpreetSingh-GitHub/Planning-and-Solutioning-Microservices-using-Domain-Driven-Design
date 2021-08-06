@@ -77,7 +77,6 @@ Based on the human resource domain and current scope of the application, below d
 <img src="Images/1.PNG" width="50%" style="border:1px solid darkgrey; margin-left:40px">
 
 <br />
-<br />
 
 - <b>Employee management</b>, this is at the core of business as the main purpose of human resource tool is to enable efficient employee management
     - <b>Activation</b> and <b>Inactivation</b> of employees are closely related functionalities to Employee management
@@ -100,8 +99,6 @@ We will now identify the bounded contexts which is the boundary within a domain.
 
 <img src="Images/2.PNG" width="50%" style="margin-left:40px">
 
-<br />
-<br />
 <br />
 
 ## Using tactical DDD to design microservices ##
@@ -129,7 +126,6 @@ Below is the UML diagram of Employee aggregate with references to Status and Rol
 
 <img src="Images/3.PNG" width="30%" style="border:1px solid darkgrey; margin-left:40px">
 
-<br />
 <br />
 
 There is one domain event -
@@ -166,7 +162,6 @@ Based on our modeling that we did using domain-driven design, below is the solut
 <img src="Images/4.PNG" width="90%" style="border:1px solid darkgrey">
 
 <br />
-<br />
 
 There are various components of the solution architecture. Below is the detailed explanation of each component -
 
@@ -197,7 +192,6 @@ There are various components of the solution architecture. Below is the detailed
 - <b>Azure Redis Cache</b>
     - We will use Azure Redis Cache to store data so as to avoid expensive inter microsrvices communication
 
-<br />
 <br />
 
 ## Next Steps ##
