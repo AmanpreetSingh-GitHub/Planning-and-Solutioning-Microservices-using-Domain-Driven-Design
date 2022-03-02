@@ -11,10 +11,10 @@ This article is the first part of series covering planning, solutioning, designi
 - Planning and Solutioning Microservices using Domain Driven Design
 - [Developing Microservices using .Net 5](https://github.com/AmanpreetSingh-GitHub/Developing-Microservices-using-.Net-5)
 - [Deploying-Microservices to Azure Kubernetes Services](https://github.com/AmanpreetSingh-GitHub/Deploying-Microservices-to-Azure-Kubernetes-Services)
-- [Inter Microservices communication using Azure Service Bus](https://github.com/AmanpreetSingh-GitHub/Inter-Microservices-communication-using-Azure-Service-Bus)
-- [Using Redis cache to increase performance during inter Microservices communicaiton](https://github.com/AmanpreetSingh-GitHub/Using-Redis-cache-to-increase-performance-during-inter-Microservices-communicaiton)
-- [Protecting Microservices inside Azure Kubernetes Services using Azure API Management](https://github.com/AmanpreetSingh-GitHub/Protecting-Microservices-inside-Azure-Kubernetes-Services-using-Azure-API-Management)
-- [Authenticate Microservices inside Azure Kubernetes Services using Azure Active Directory](https://github.com/AmanpreetSingh-GitHub/Authenticate-Microservices-inside-Azure-Kubernetes-Services-using-Azure-Active-Directory)
+- Inter Microservices communication using Azure Service Bus
+- Using Redis cache to increase performance during inter Microservices communicaiton
+- Protecting Microservices inside Azure Kubernetes Services using Azure API Management
+- Authenticate Microservices inside Azure Kubernetes Services using Azure Active Directory
 
 
 <br />
