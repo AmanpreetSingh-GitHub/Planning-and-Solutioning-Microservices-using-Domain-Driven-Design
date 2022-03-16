@@ -1,5 +1,13 @@
 # Planning and Solutioning Microservices using Domain Driven Design #
 
+## Solution Architecture ##
+
+<br />
+
+<img src="Images/4.PNG" width="90%" style="border:1px solid darkgrey">
+
+<br />
+
 ## Introduction ##
 
 <br />
